@@ -57,5 +57,5 @@ print(getallen[2])
 for g in getallen:
     print(g)
     if g == 17:
-        print("hiep hiep hoera het is 17!!")
+        print("hiep hiep hoera het is 17!!!")
 
